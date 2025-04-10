@@ -22,7 +22,7 @@
         },
         "BOT_TOKEN": {
             "description": "Get this from @BotFather",
-            "value": "7150728438:AAETPPgIvtuoRJb0sr_RoL74n93oOu_n3do"
+            "value": "7150728438:AAHO9NWs8rhMMgCZZaxI5bFfWxTPMdskY5s"
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])",
